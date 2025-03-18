@@ -1,0 +1,23 @@
+from_who,to_who,cuit_emisor,cuit_receptor,logo,num_invoice,date_invoice,due_date,items,notes,term,impuesto,descuento,tipo_factura,final_price
+Optima LLC,Netrunner Seguridad Informática,https://ibb.co/qMvcN1j,1,2025-03-15,2025-03-15,"[{'name': 'Servicio de análisis de datos', 'quantity': 1, 'unit_cost': 500000}]",Se creó un proceso ETL para Netrunner Seguridad Informática. Se realizó un análisis de datos mediante python y tableau.,,21,5.0,574750.0,,,
+Optima Consulting & Management LLC,Netrunner Seguridad Informática,https://ibb.co/qMvcN1jf,1,2025-03-15,2025-03-15,"[{'name': 'Servicio de ETL y análisis de datos', 'quantity': 1, 'unit_cost': 450000}]","Se realizó un análisis exhaustivo de datos para Netrunner, abarcando la recopilación, procesamiento y evaluación de información relevante. El servicio incluyó la identificación de patrones, tendencias y métricas clave, así como la generación de informes detallados y recomendaciones estratégicas para optimizar procesos y tomar decisiones informadas. El alcance del proyecto cubrió [especificar áreas o módulos analizados, si es necesario], garantizando resultados precisos y alineados con los objetivos del cliente.",,21,5.0,517275.0,,,
+Optima Consulting & Management LLC,Netrunner Seguridad Informática,20407289855,20407289855,https://i.ibb.co/qMvcN1j/logo.png,00001-00000001,2025-03-15,2025-03-15,"[{'name': 'Creación de ETL', 'quantity': 1, 'unit_cost': 300000}, {'name': 'Análisis de Datos', 'quantity': 1, 'unit_cost': 250000}]","Se realizó un análisis exhaustivo de datos para Netrunner, abarcando la recopilación, procesamiento y evaluación de información relevante. El servicio incluyó la identificación de patrones, tendencias y métricas clave, así como la generación de informes detallados y recomendaciones estratégicas para optimizar procesos y tomar decisiones informadas. El alcance del proyecto cubrió [especificar áreas o módulos analizados, si es necesario], garantizando resultados precisos y alineados con los objetivos del cliente.
+
+Método de pago: Transferencia bancaria
+Alias BRUBANK: fede.marti.brubank",,21.0,5.0,Factura A,647900.0
+MateSpark Analytics,Netrunner Seguridad Informática,20407289855,20407289855,00001-00000002,2025-03-15,2025-03-15,"[{'name': 'Automatización de procesos', 'quantity': 1, 'unit_cost': 2500000}]","Se automatizó la carga de formularios.
+
+Método de pago: Transferencia bancaria
+Alias BRUBANK: fede.marti.brubank",,21.0,5.0,Factura A,3116000.0,
+MateSpark Analytics,Netrunner Seguridad Informática,20407289855,20407289855,00001-00000002,2025-03-15,2025-03-15,"[{'name': 'Automatización de procesos', 'quantity': 1, 'unit_cost': 2500000}]","Se automatizó la carga de formularios.
+
+Método de pago: Transferencia bancaria
+Alias BRUBANK: fede.marti.brubank",,21.0,5.0,Factura A,3116000.0,
+MateSpark Analytics,Netrunner Seguridad Informática,20407289855,20407289855,00001-00000002,2025-03-15,2025-03-15,"[{'name': 'Automatización de procesos', 'quantity': 1, 'unit_cost': 2500000}]","Se automatizó la carga de formularios.
+
+Método de pago: Transferencia bancaria
+Alias BRUBANK: fede.marti.brubank",,21.0,5.0,Factura A,3116000.0,
+MateSpark Analytics,Not Generic SRL,20407289855,20407289855,00001-00000003,2025-03-15,2025-03-15,"[{'name': 'Servicio de Gobernanza de Datos', 'quantity': 1, 'unit_cost': 3000000}]","
+
+Método de pago: Transferencia bancaria
+Alias BRUBANK: fede.marti.brubank",,21,5.0,Factura A,3739200.0,
